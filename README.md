@@ -26,22 +26,26 @@ O Project Adam é um assistente virtual colaborativo desenvolvido com Flutter, p
 
 ## Getting Started 👷
 <hr>
-To start development, you need to clone the GitHub project into a directory of your choice:
+Para iniciar o desenvolvimento, você precisa clonar o projeto GitHub em um diretório de sua escolha:
 
 ```shell
 cd "directory of your choice"
-git clone https://github.com/Thejuniordev/adote-um-dev
+git clone https://github.com/Thejuniordev/project_adam.git
 ```
 
-First, run the development server:
+1. Run pubget
 
 ```bash
-npm run dev
-# or
-yarn dev
+flutter run pub get
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Abra o seu emulador Android ou IOS
+
+3. Run flutter project
+
+```bash
+flutter run 
+```
 
 ## Contribuição
 <hr>
@@ -88,6 +92,9 @@ Por favor, certifique-se de seguir as diretrizes de contribuição e código do 
 </h4>
 
 <hr>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## MIT
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
  
 
