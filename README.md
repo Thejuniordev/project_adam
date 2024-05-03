@@ -92,9 +92,9 @@ Por favor, certifique-se de seguir as diretrizes de contribuição e código do 
 </h4>
 
 <hr>
+
 ## MIT
 ### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
  
 
